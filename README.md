@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front-End Developer
 --------------------------
 
-I’ve been learning front-end about a year now. My main framework is React JS. I do love personally design my own websites.
+I’ve been learning front-end since 2022 while pursuing my studies at University. My main framework is React JS. I do love personally design my own websites.
 
-* 🌍  I'm based in Szeged, Hungary
+* 🌍  I'm based in Kiskunfélegyháza, Hungary
 * 🖥️  See my portfolio at [marcell-almasi-portfolio](http://marcell-almasi-portfolio.netlify.app/)
 * ✉️  You can contact me at [almasimarcell@gmail.com](mailto:almasimarcell@gmail.com)
 * 🧠  I'm learning CSS frameworks
