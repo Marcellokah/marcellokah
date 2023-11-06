@@ -7,7 +7,7 @@ Junior Front-End Developer
 I’ve been learning front-end since 2022 while pursuing my studies at University. My main framework is React JS. I do love personally design my own websites.
 
 * 🌍  I'm based in Kiskunfélegyháza, Hungary
-* 🖥️  See my portfolio at [marcell-almasi-portfolio](http://marcell-almasi-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [marcell-almasi-portfolio](https://marcell-almasi.netlify.app/)
 * ✉️  You can contact me at [almasimarcell@gmail.com](mailto:almasimarcell@gmail.com)
 * 🧠  I'm learning CSS frameworks
 * 🤝  I'm open to collaborating on React projects
