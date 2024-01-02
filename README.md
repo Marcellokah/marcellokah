@@ -9,8 +9,7 @@ I’ve been learning front-end since 2022 while pursuing my studies at Universit
 * 🌍  I'm based in Kiskunfélegyháza, Hungary
 * 🖥️  See my portfolio at [marcell-almasi-portfolio](https://marcell-almasi.netlify.app/)
 * ✉️  You can contact me at [almasimarcell@gmail.com](mailto:almasimarcell@gmail.com)
-* 🧠  I'm learning CSS frameworks
-* 🤝  I'm open to collaborating on React projects
+* 🤝  I'm working as a Front-End Developer Intern at origin/develop
 
 ### Skills
 
