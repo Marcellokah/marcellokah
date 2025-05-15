@@ -2,10 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Marcell Almási
 ======================================================================================================================================
 
-Junior Front-End Developer
+Front-End Developer
 --------------------------
-
-I’ve been learning front-end since 2022 while pursuing my studies at University. My main framework is React JS. I do love personally design my own websites.
 
 * 🌍  I'm based in Kiskunfélegyháza, Hungary
 * 🖥️  See my portfolio at [marcell-almasi-portfolio](https://marcell-almasi.netlify.app/)
